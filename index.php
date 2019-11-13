@@ -16,7 +16,8 @@
     <style>
     @media (max-width: 767px) {
       .x {
-        margin-top: 600px;
+        margin-top: 550px !important;
+    right: 0 !important;
       }
     }
 
