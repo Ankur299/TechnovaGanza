@@ -1,0 +1,7 @@
+@media (min-width: 768px) {
+  #srch {
+    width: 300px !important;
+    transform: translate(-50%,0);
+  }
+}
+
